@@ -6,7 +6,7 @@ retailers like Amazon.
 ## 🛠️ Tools & Technologies
 - **Programming:** Python (pandas, numpy, scikit-learn, VaderSentiment , K-Means , K-Modes )  
 - **Visualization:** matplotlib, seaborn  
-- **Other Tools:** Google Collab Noteboo
+- **Other Tools:** Google Collab Notebook
 ## 📂 Dataset
 - Source: (https://www.kaggle.com/code/swathiunnikrishnan/consumer-behaviour-analysis-of-amazon-a-study for 2023)
 - Size: 602 rows × 23 columns  
