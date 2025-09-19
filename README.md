@@ -22,6 +22,11 @@ retailers like Amazon.
    - Evaluated model performance using Elbow method and silhouette score.
 4. **Visualization & Insights**
    - Do the segment profiling and create the table to communicate results.  
+
 ## 📊 Key Insights
 -Price sensitivity is the main driver; service, sustainability, and product quality are key improvement areas.
 -Most customers are either highly loyal or low-trust/low-satisfaction, showing opportunities to improve transparency, trust, and value.
+
+<img width="594" height="464" alt="ภาพถ่ายหน้าจอ 2568-09-19 เวลา 17 59 34" src="https://github.com/user-attachments/assets/7304f8e6-902b-4a40-9e8f-102ada13a822" />
+Customer Segmentation (PCA Projection) from K-Means Clustering
+
